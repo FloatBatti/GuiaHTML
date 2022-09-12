@@ -9,7 +9,7 @@
 </head>
 <body>
  
-    <h1 title="Titulo">My first Heading &copy</h1>
+    <h1 id = "Arriba" title="Titulo">My first Heading &copy</h1>
     
 
     <h2>My second Heading</h2>
@@ -121,12 +121,17 @@
         <span style="color: blue; font-weight: bold;">color de algunos elementos</span>
     </p>
 
-    <div style="border: 3px solid black;">
+    <div id="bloqueDiv">
         <h3>Elemento block (div)</h3>
         <p>Texto dentro del div</p>
     </div>
 
     <p>Texto fuera del div</p>
+
+    <a href="#Arriba" style="display: block; margin-bottom: 20px;">Ir para arriba</a>
+
+    <a href="index2.php" target="_blank">Ir a la segunda parte</a>
+
 
 </body>
 </html>
