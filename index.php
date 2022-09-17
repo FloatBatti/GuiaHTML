@@ -37,8 +37,7 @@
     <a href="/contacto.php" target="_blank" style="font-size: 20px; border: 5px solid #42032C; padding: 5px; background-color: #E6D2AA; display: inline-block;">Contacto</a>
 
     <div style="margin-top: 15px;">
-
-        
+ 
         <table>
 
         <caption><b>Listado de Personas</b></caption>
@@ -128,9 +127,11 @@
 
     <p>Texto fuera del div</p>
 
-    <a href="#Arriba" style="display: block; margin-bottom: 20px;">Ir para arriba</a>
+    <a href="#Arriba" style="margin-bottom: 20px;">Ir para arriba</a><br>
 
-    <a href="index2.php" target="_blank">Ir a la segunda parte</a>
+    <a href="index2.php" target="_blank">Ir a la segunda parte</a><br>
+
+    <a href="script.php" target="_blank">Ir a los scripts</a>
 
 
 </body>
